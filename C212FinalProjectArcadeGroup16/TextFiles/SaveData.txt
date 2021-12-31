@@ -1,0 +1,4 @@
+jonathan|135.0|[Slinky: 2.0, Jar of Jellybeans: 10.0]
+enrique|46.5|[Small Gumball Machine: 100.0]
+joe|50.0|[Yo-yo: 1.5, Novelty Mug: 20.0]
+jane|50.0|[HexBug: 3.0, Lego Bionicle Set: 75.0, Finger Trap: 3.0]
